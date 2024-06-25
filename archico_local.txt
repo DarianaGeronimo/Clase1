@@ -1,4 +1,5 @@
 Archivo local
 Dariana 
-linea de local
-linea nueva
+Esta linea es en git 
+Linea remota
+Linea nueva
